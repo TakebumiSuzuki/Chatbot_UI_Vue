@@ -1,0 +1,5 @@
+[
+  { "id": 1, "role": "user", "content": "Hello, who are you?" },
+  { "id": 2, "role": "ai", "content": "I am a helpful assistant." },
+  { "id": 3, "role": "error", "content": "Failed to send message." }
+]
